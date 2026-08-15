@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iffah Shop</title>
+
+    <meta http-equiv="refresh" content="0; url=Iffah-Shop/index.html">
+
+    <script>
+        window.location.href = "Iffah-Shop/index.html";
+    </script>
+</head>
+<body>
+    <p>Loading Iffah Shop...</p>
+</body>
+</html>
